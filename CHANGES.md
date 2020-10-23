@@ -9,6 +9,7 @@ Release Notes.
 #### Java Agent
 
 #### OAP-Backend
+* Improve Kubernetes service registry for ALS analysis.
 
 #### UI
 
