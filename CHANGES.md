@@ -10,6 +10,7 @@ Release Notes.
 
 #### OAP-Backend
 * Improve Kubernetes service registry for ALS analysis.
+* Add the `@SuperDataset` annotation for BrowserErrorLog.
 
 #### UI
 
